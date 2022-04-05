@@ -4,9 +4,16 @@
 - 반드시 BandRate를 아두이노와 맞추어야함.
 - 이 예제를 진행하며 학습한 사항은 아래와 같음.
 
-## 1. Serial Port Class 
-- System.IO.Ports 네임스페이스에 포함되어있음.
+## Pre. System.IO.Ports
 ![image](https://user-images.githubusercontent.com/68228162/161706421-7178c8f5-3bb4-4e77-aff7-7353cdb8a132.png)
+
+## 1. Serial Port Class 
+![image](https://user-images.githubusercontent.com/68228162/161706641-c995084b-7ffb-4ca5-8302-e7a5e2f280dc.png)
+![image](https://user-images.githubusercontent.com/68228162/161706686-cd60d74d-c12c-4e5e-848b-bc9164572a93.png)
+![image](https://user-images.githubusercontent.com/68228162/161706704-6e71c4de-341d-4f4d-ab6f-d2c0240be1c4.png)
+![image](https://user-images.githubusercontent.com/68228162/161706739-86afc160-89f1-43b7-87f1-7b66101feceb.png)
+![image](https://user-images.githubusercontent.com/68228162/161706755-5debcc0a-dc33-4f86-9c9e-ef0679217718.png)
+![image](https://user-images.githubusercontent.com/68228162/161706769-83c59e3f-a2ee-45dc-a51e-caac11a053e3.png)
 
 
 
