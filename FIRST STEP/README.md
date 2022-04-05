@@ -21,4 +21,4 @@
 
 ※ 참고 사이트 
 1. https://docs.microsoft.com/ko-kr/dotnet/api/system.io.ports.serialport?view=dotnet-plat-ext-6.0
-2. 
+2. https://create.arduino.cc/projecthub/raisingawesome/unity-game-engine-and-arduino-serial-communication-12fdd5
