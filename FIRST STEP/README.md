@@ -1,10 +1,10 @@
-### 첫 번째 단계.. LED 키고 끄기 
+# 첫 번째 단계.. LED 키고 끄기 
 - 하위 디렉토리 FIRST_STEP 에 들어가면 구체적인 코드 확인 가능 
 - Requirement: ui의 버튼을 누르면 led를 키고 끌 수 있게 만듬.
 - 반드시 BandRate를 아두이노와 맞추어야함.
 - 이 예제를 진행하며 학습한 사항은 아래와 같음.
 
-## Pre. System.IO.Ports
+# Pre. System.IO.Ports
 ![image](https://user-images.githubusercontent.com/68228162/161706421-7178c8f5-3bb4-4e77-aff7-7353cdb8a132.png)
 
 ## 1. Serial Port Class 
