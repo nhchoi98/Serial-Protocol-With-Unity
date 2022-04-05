@@ -18,6 +18,10 @@
 ![image](https://user-images.githubusercontent.com/68228162/161706769-83c59e3f-a2ee-45dc-a51e-caac11a053e3.png)
 
 
+# Question
+1. 한 번에 얼마나 많은 양의 Buffer를 처리할 수 있을지? 
+2. 한 아두이노에 (UNO 기준) 얼마나 많은 센서를 실시간 처리할 수 있을까?  
+
 
 ※ 참고 사이트 
 1. https://docs.microsoft.com/ko-kr/dotnet/api/system.io.ports.serialport?view=dotnet-plat-ext-6.0
