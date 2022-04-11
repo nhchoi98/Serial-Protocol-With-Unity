@@ -6,7 +6,8 @@
 2. 초음파 센서를 통해 값을 얻어, 탐지된 물체의 거리가 기준 거리보다 가까우면 이미지를 빨간색으로 표시하고, 아니면 초록색으로 표시한다. 
 
 # B. 회로구성도 
-[board.pdf](https://github.com/Chocoemon/Serial-Protocol-With-Unity/files/8461483/board.pdf)
+![111](https://user-images.githubusercontent.com/68228162/162676840-c942e283-bf48-4dcf-88fb-3c5d4672c97d.jpg)
+
 
 
 # C. 학습한 내용
