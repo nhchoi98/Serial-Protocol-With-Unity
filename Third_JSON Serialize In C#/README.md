@@ -6,4 +6,4 @@
 ## Reference 
 1. https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=leegh1587&logNo=220613423857
 2. https://ai0.kr/3 (서보 제어 참조 1)
-3. 
+3. https://blog.naver.com/siook12/222596501534 (서보 제어 참조 2, 다이나믹셀)
