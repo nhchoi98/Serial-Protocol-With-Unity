@@ -16,11 +16,14 @@
 ### 3. 각 단계로 이동하기 
  1. 유니티에서 특정 입력을 넣으면 LED를 키고 끌 수 있게 하기 (USB 포트를 통한 통신)
  2. 거리센서를 이용해 Reflect 되어오는 파장이 기준시보다 짧으면 빨간색을, 길면 초록색을 UGUI에 띄워줌 (USB 포트를 통한 )
-
+ 3. 유니티 내에서 Object의 Transform 정보 (위치, 회전 정도)가 변하면, 이를 JSON으로  Serialize 해서 아두이노로 전송, 이를
+    아두이노가 처리할 수 있도록 함수 만들기 
 
 
 
 ※ Reference 사이트 
 - 1. 유니티 ROS# 프로젝트 참고 사이트 
 - https://forum.unity.com/threads/ros-ros-ros-unity-communication-package.508725/ 
-- 2. 
+
+- 2. Arduino JSON 과정 참고 사이트 (아두이노가 받을 때!) 
+- https://github.com/bblanchon/ArduinoJson
